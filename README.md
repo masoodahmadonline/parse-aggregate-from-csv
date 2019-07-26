@@ -1,4 +1,5 @@
-# Required: 
+Required: 
+=========
 
 These four sources aggregated in order to produce stats for each project. Think along the lines of a SQL Join. 
 It downloads the zip file containing the CSV files (from here) and parses them;
@@ -120,3 +121,10 @@ Data to parse
     24,8,WebSearchTask
     25,1,EditorTask
     26,1,PublisherTask
+    
+Solution
+========
+
+![image1](https://github.com/masoodahmadonline/parse-aggregate-from-csv/blob/master/src/main/java/images/parser1.png)
+![image2](https://github.com/masoodahmadonline/parse-aggregate-from-csv/blob/master/src/main/java/images/parser2.png)
+![image3](https://github.com/masoodahmadonline/parse-aggregate-from-csv/blob/master/src/main/java/images/parser3.png)
