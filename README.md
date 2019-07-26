@@ -1,6 +1,6 @@
-# temp2019-07-25
+# Required: 
 
-Required: these four sources aggregated in order to produce stats for each project. Think along the lines of a SQL Join. 
+These four sources aggregated in order to produce stats for each project. Think along the lines of a SQL Join. 
 It downloads the zip file containing the CSV files (from here) and parses them;
 It aggregates the given data;
 It outputs the project list containing the following fields:
@@ -15,7 +15,7 @@ Definition Of Done
 - No Code Smells
 
 
-expected result:
+expected result format:
 =============
 
     [
